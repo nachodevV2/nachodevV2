@@ -2,6 +2,9 @@
 
 ## A multi-language developer learning Lua.
 
+### Basic Info
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nachodevv2)](https://github.com/anuraghazra/github-readme-stats)
+
 ### About me
 I am a student living in the brilliant country of England, amazing at skidding Lua scripts and developing my own games
 While you are here, consider checking out some of my random repos!
