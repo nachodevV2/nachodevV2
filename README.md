@@ -2,7 +2,6 @@
 
 ## A multi-language developer learning Lua.
 
-### Basic Info
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nachodevv2)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
