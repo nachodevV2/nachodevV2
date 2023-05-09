@@ -32,6 +32,7 @@ I am a student living in the brilliant country of England, amazing at skidding L
 While you are here, consider checking out some of my random repos!
 
 ### Stuff
+- ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) user
 - 🔭 I’m currently working on: nothing
 - 👯 I’m looking to collaborate on: anything
 - ⚡ Fun fact: It would require close to 2,000,000 mosquito bites in order to lose two liters, a life-threatening amount of blood.
