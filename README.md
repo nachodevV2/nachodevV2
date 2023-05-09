@@ -9,7 +9,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### My Experience
+### My PC
 
 ### About me
 I am a student living in the brilliant country of England, amazing at skidding Lua scripts and developing my own games
