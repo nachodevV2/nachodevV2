@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Boz.
 
-## A multi-language developer, and a huge fan of ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+## A multi-language developer, and a huge fan of ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) and ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 ### Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +34,7 @@
 ### About me
 I am a student living in the brilliant country of England, amazing at skidding Lua scripts and developing my own games
 While you are here, consider checking out some of my random repos!
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
 
 ### Stuff
 - 🔭 I’m currently working on: nothing
