@@ -38,7 +38,7 @@ While you are here, consider checking out some of my random repos!
 - ⚡ Fun fact: It would require close to 2,000,000 mosquito bites in order to lose two liters, a life-threatening amount of blood.
 
 ### Contact
-You can contact me on Discord @ RealBoz#9499 (although I'm not online much)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 You can also contact me by email @ mailto:pliers.tauter-0q@icloud.com
 
 ## Thanks for checking out my profile!
