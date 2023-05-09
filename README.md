@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Boz.
+# Hi there 👋, I'm Boz (![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white))
 
 ## A multi-language developer, and a huge fan of ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
