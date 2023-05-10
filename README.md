@@ -45,7 +45,7 @@ While you are here, consider checking out some of my random repos!
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<span style="color:red;">RealBoz#9499</span>
+<span style="background-color:red;">RealBoz#9499</span>
 
 ## Thanks for checking out my profile!
 
