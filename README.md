@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Boz.
 
 ## A multi-language developer, and a huge fan of ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) and ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+<span style="color:blue">some *blue* text</span>.
 
 ### Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
