@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Boz.
 
 ## A multi-language developer, and a huge fan of ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) and ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-<span style="color:blue">some *blue* text</span>.
 
 ### Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +45,7 @@ While you are here, consider checking out some of my random repos!
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-RealBoz#9499
+<span style="color: red;">RealBoz#9499</span>.
 
 ## Thanks for checking out my profile!
 
