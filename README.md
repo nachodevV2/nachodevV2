@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Boz.
+smjsmam mamamamammama
 
 ## A multi-language developer, and a huge fan of ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) and ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
@@ -32,8 +32,7 @@
 -->
 
 ### About me
-I am a student living in the brilliant country of England, amazing at skidding Lua scripts and developing my own games
-While you are here, consider checking out some of my random repos!
+im a 11 yr old
 
 
 ### Stuff
