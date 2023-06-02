@@ -32,7 +32,7 @@
 -->
 
 ### About me
-im a 11 yr old
+I am a student living in the brilliant country of England, amazing at skidding Discord Bots
 
 
 ### Stuff
