@@ -32,7 +32,7 @@
 -->
 
 ### About me
-I am a student living in the brilliant country of England, amazing at skidding Discord Bots
+I am a student living in the brilliant country of England, amazing at skidding Discord Bots and developing my own games. While you are here, consider checking out some of my random repos!
 
 
 ### Stuff
